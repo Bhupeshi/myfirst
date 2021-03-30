@@ -1,0 +1,7 @@
+class Demo
+{
+public void main(str [] args)
+{
+System.out.print("hello world");
+}
+}
